@@ -1,12 +1,14 @@
 # Toán 1
 ### 1. Các số đến 10. Hình vuông, hình tròn, hình tam giác
 ### Nhiều hơn, ít hơn
-![Ảnh](./images/nhieu-hon-it-hon-1.png)
-
-![Ảnh](./images/nhieu-hon-it-hon-2.png)
+![Ảnh](./images/nhieu-hon-it-hon-1.png) &emsp; ![Ảnh](./images/nhieu-hon-it-hon-2.png)
 
 ### Hình vuông, hình tròn
+![Ảnh](./images/hinh-vuong.png) &emsp; ![Ảnh](./images/hinh-tron.png)
+
 ### Hình tam giác
+![Ảnh](./images/hinh-tam-giac-can.png)
+
 ### Các số 1, 2, 3
 ### Các số 1, 2, 3, 4, 5
 ### Bé hơn. Dấu <
@@ -18,6 +20,8 @@
 ### Số 9
 ### Số 0
 ### Số 10
+
+
 
 ### 2. Phép cộng, phép trừ trong phạm vi 10
 ### Phép cộng trong phạm vi 3
@@ -39,6 +43,8 @@
 ### Phép cộng trong phạm vi 10
 ### Phép trừ trong phạm vi 10
 ### Bảng cộng và bằng trừ trong phạm vi 10
+
+
 
 ### 3. Các số trong phạm vi 100, đo độ dài. Giải bài toán
 ### Điểm. Đoạn thẳng
@@ -66,6 +72,8 @@
 ### So sánh các số có hai chữ số
 ### Bảng các số từ 1 đến 100
 ### Giải toán có lời văn (tiếp theo)
+
+
 
 ### 4. Phép cộng, phép trừ trong phạm vi 100. Đo thời gian
 ### Phép cộng trong phạm vi 100 (cộng không nhớ)
