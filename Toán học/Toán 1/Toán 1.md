@@ -10,7 +10,11 @@
 ![Ảnh](./images/hinh-tam-giac-can.png)
 
 ### Các số 1, 2, 3
+![Ảnh](./images/cac-so-1-2-3.png)
+
 ### Các số 1, 2, 3, 4, 5
+![Ảnh](./images/cac-so-1-2-3-4-5.png)
+
 ### Bé hơn. Dấu <
 ### Lớn hơn. Dấu >
 ### Bằng nhau. Dấu =
