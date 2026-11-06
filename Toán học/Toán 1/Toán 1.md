@@ -1,7 +1,7 @@
 # Toán 1
 ### 1. Các số đến 10. Hình vuông, hình tròn, hình tam giác
 ### Nhiều hơn, ít hơn
-![Ảnh](./images/nhieu-hon-it-hon-1-.png)
+![Ảnh](./images/nhieu-hon-it-hon-1.png)
 ![Ảnh](./images/nhieu-hon-it-hon-2.png)
 
 ### Hình vuông, hình tròn
