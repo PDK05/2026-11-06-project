@@ -16,7 +16,10 @@
 ![Ảnh](./images/cac-so-1-2-3-4-5.png)
 
 ### Bé hơn. Dấu <
+![Ảnh](./images/1-be-hon-2.png) &emsp; ![Ảnh](./images/2-be-hon-3.png)
+
 ### Lớn hơn. Dấu >
+
 ### Bằng nhau. Dấu =
 ### Số 6
 ### Số 7
