@@ -25,9 +25,17 @@
 ![Ảnh](./images/3-bang-3.png) &emsp; ![Ảnh](./images/4-bang-4.png)
 
 ### Số 6
+![Ảnh](./images/so-6.png)
+
 ### Số 7
+![Ảnh](./images/so-7.png)
+
 ### Số 8
+![Ảnh](./images/so-8.png)
+
 ### Số 9
+![Ảnh](./images/so-9.png)
+
 ### Số 0
 ### Số 10
 
