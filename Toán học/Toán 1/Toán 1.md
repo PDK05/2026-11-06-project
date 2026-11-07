@@ -45,7 +45,7 @@
 
 ### 2. Phép cộng, phép trừ trong phạm vi 10
 ### Phép cộng trong phạm vi 3
-![Ảnh](./images/2-cong-1-bang-3.png) &emsp; ![Ảnh](./images/1-cong-2-bang-3.png)
+![Ảnh](./images/1-cong-1-bang-2.png) &emsp; ![Ảnh](./images/2-cong-1-bang-3.png) &emsp; ![Ảnh](./images/1-cong-2-bang-3.png)
 
 ### Phép cộng trong phạm vi 4
 ![Ảnh](./images/3-cong-1-bang-4.png) &emsp; ![Ảnh](./images/2-cong-2-bang-4.png) &emsp; ![Ảnh](./images/1-cong-3-bang-4.png)
