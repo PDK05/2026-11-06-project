@@ -45,6 +45,8 @@
 
 ### 2. Phép cộng, phép trừ trong phạm vi 10
 ### Phép cộng trong phạm vi 3
+![Ảnh](./images/2-cong-1-bang-3.png)
+
 ### Phép cộng trong phạm vi 4
 ### Phép cộng trong phạm vi 5
 ### Số 0 trong phép cộng
