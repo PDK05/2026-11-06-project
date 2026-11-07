@@ -19,6 +19,7 @@
 ![Ảnh](./images/1-be-hon-2.png) &emsp; ![Ảnh](./images/2-be-hon-3.png)
 
 ### Lớn hơn. Dấu >
+![Ảnh](./images/2-lon-hon-1.png) &emsp; ![Ảnh](./images/3-lon-hon-2.png)
 
 ### Bằng nhau. Dấu =
 ### Số 6
