@@ -22,6 +22,8 @@
 ![Ảnh](./images/2-lon-hon-1.png) &emsp; ![Ảnh](./images/3-lon-hon-2.png)
 
 ### Bằng nhau. Dấu =
+![Ảnh](./images/3-bang-3.png) &emsp; ![Ảnh](./images/4-bang-4.png)
+
 ### Số 6
 ### Số 7
 ### Số 8
