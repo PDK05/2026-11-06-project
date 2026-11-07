@@ -37,8 +37,10 @@
 ![Ảnh](./images/so-9.png)
 
 ### Số 0
-### Số 10
+![Ảnh](./images/so-0.png)
 
+### Số 10
+![Ảnh](./images/so-10.png)
 
 
 ### 2. Phép cộng, phép trừ trong phạm vi 10
