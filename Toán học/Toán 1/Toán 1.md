@@ -51,6 +51,8 @@
 ![Ảnh](./images/3-cong-1-bang-4.png) &emsp; ![Ảnh](./images/2-cong-2-bang-4.png) &emsp; ![Ảnh](./images/1-cong-3-bang-4.png)
 
 ### Phép cộng trong phạm vi 5
+![Ảnh](./images/4-cong-1-bang-5.png) &emsp; ![Ảnh](./images/3-cong-2-bang-5.png)
+
 ### Số 0 trong phép cộng
 ### Phép trừ trong phạm vi 3
 ### Phép trừ trong phạm vi 4
