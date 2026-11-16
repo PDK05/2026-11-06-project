@@ -66,6 +66,8 @@
 ![Ảnh](./images/5-tru-1-bang-4.png) &emsp; ![Ảnh](./images/5-tru-2-bang-3.png)
 
 ### Số 0 trong phép trừ
+![Ảnh](./images/4-tru-0-bang-4.png) &emsp; ![Ảnh](./images/5-tru-0-bang-5.png)
+
 ### Phép cộng trong phạm vi 6
 ### Phép trừ trong phạm vi 6
 ### Phép cộng trong phạm vi 7
